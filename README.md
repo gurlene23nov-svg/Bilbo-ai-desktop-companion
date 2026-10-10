@@ -1,4 +1,5 @@
-<img width="817" height="806" alt="image" src="https://github.com/user-attachments/assets/1f1e9177-c5f7-41e6-8cf4-1f31c42eaff9" /># Bilbo — AI Desktop Companion
+<img width="887" height="312" alt="Screenshot 2026-10-10 193332" src="https://github.com/user-attachments/assets/d4c18e73-1761-401e-b3b2-28c1151adfbd" />
+ Bilbo — AI Desktop Companion
 
 Bilbo is a small Windows desktop companion with a floating rabbit, a local chat
 window, saved conversation history, and read-only laptop status and storage
@@ -32,8 +33,17 @@ reports. It is built with Python, Tkinter/CustomTkinter, FastAPI, and SQLite.
 
 ## Screenshots
 <img width="392" height="385" alt="Screenshot 2026-10-10 193240" src="https://github.com/user-attachments/assets/9903a3dc-f65d-4d13-999e-edcc31a375d2" />
+bilbo my companion
+<img width="887" height="312" alt="Screenshot 2026-10-10 193332" src="https://github.com/user-attachments/assets/235585b5-de9e-4d6d-9481-077903e6c6b7" />
+hi bilbo
+<img width="867" height="743" alt="Screenshot 2026-10-10 193405" src="https://github.com/user-attachments/assets/424523d0-b682-488d-8466-a567bdfef9c0" />
+moods of bilbo
+<img width="715" height="806" alt="Screenshot 2026-10-10 193428" src="https://github.com/user-attachments/assets/b49ad998-2a81-4f33-9aa8-379f9a7af71d" />
 
 <img width="817" height="806" alt="image" src="https://github.com/user-attachments/assets/50d51e71-61a9-4bf2-938d-9e586fea2205" />
+storage information
+<img width="561" height="792" alt="image" src="https://github.com/user-attachments/assets/488d4db1-d9f0-4840-95b0-2cae2e89d723" />
+laptop report
 
 
 ## Requirements
@@ -168,8 +178,6 @@ start_bilbo.bat       Windows development launcher
 
 - **The chat cannot connect:** start Bilbo with `start_bilbo.bat` and check
   whether another application is already using port `8000`.
-- **The pet image is missing:** keep the `frontend\assets` directory alongside
-  the source files.
 - **The security report is unavailable:** Defender or Firewall PowerShell
   cmdlets may be missing or restricted on some Windows editions; Bilbo reports
   available information only.
