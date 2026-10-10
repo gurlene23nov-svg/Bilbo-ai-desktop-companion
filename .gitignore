@@ -1,0 +1,36 @@
+# Python bytecode and test artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Python environments
+/.venv/
+/venv/
+/env/
+/ENV/
+
+# Local runtime data, databases, and logs
+/data/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Local archives and preserved source backups
+*.zip
+/frontend_backup/
+/frontend/*_backup.py
+/backend/api/*_backup.py
+/backend/api/routes_before_*.py
+/backend/api/routes_step*.py
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
