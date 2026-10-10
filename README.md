@@ -1,4 +1,4 @@
-# Bilbo — AI Desktop Companion
+<img width="817" height="806" alt="image" src="https://github.com/user-attachments/assets/1f1e9177-c5f7-41e6-8cf4-1f31c42eaff9" /># Bilbo — AI Desktop Companion
 
 Bilbo is a small Windows desktop companion with a floating rabbit, a local chat
 window, saved conversation history, and read-only laptop status and storage
@@ -31,8 +31,10 @@ reports. It is built with Python, Tkinter/CustomTkinter, FastAPI, and SQLite.
   local, rule-based responses; no cloud model or API key is configured.
 
 ## Screenshots
+<img width="392" height="385" alt="Screenshot 2026-10-10 193240" src="https://github.com/user-attachments/assets/9903a3dc-f65d-4d13-999e-edcc31a375d2" />
 
-Screenshots are intentionally not included yet.
+<img width="817" height="806" alt="image" src="https://github.com/user-attachments/assets/50d51e71-61a9-4bf2-938d-9e586fea2205" />
+
 
 ## Requirements
 
